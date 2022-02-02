@@ -8,7 +8,7 @@ public class JenController {
 	@GetMapping("/")
 	public String hele() {
 		System.out.println("Helo JEn");
-		return "HElo JEn";
+		return "HElo JEn123";
 	}
 
 }
